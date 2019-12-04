@@ -10,3 +10,5 @@ p_condition VARCHAR(20),
 p_fileName VARCHAR(20),
 PRIMARY KEY (p_id)
 )default CHARSET=utf8;
+
+desc product;
